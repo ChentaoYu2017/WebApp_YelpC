@@ -1,4 +1,4 @@
-# WebApp_YelpC
+# WebApplication_YelpCamp
 
 A web application for campgrounds review:
 
